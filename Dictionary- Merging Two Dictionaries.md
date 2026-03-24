@@ -12,7 +12,18 @@ To write a Python program that merges **two dictionaries** and combines their ke
 ## 🧾 Program
 
 Add code here
+```
+dict1 = {'Ten': 10, 'Twenty': 20, 'Thirty': 30}
+
+dict2 = {'Thirty': 30, 'Fourty': 40, 'Fifty': 50}
+
+dict1.update(dict2)
+
+print(dict1)
+```
 
 ## Output
+<img width="1132" height="159" alt="image" src="https://github.com/user-attachments/assets/a2f0771e-a3b5-45cc-b01b-6e08a305ba55" />
 
 ## Result
+Thus, code is executed successfully.
